@@ -9,6 +9,7 @@ I'm a Full Stack Developer.
 - 👨🏻‍💻 I'm passionate Full Stack Development.
 - 🌱 I'm currently learning more about Web technologies.
 - 💼 I'm open to job opportunities.
+- 📫 e-mail: ashutoshsharma2625@gmail.com
 
 ## 🛠️ Skills
 
