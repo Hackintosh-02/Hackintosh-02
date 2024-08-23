@@ -2,12 +2,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hackintosh-02)
 
-I'm a Backend Developer.
+I'm a Full Stack Developer.
 
 ## 🚀 About Me
 
-- 👨🏻‍💻 I'm passionate about backend development and security enhancement.
-- 🌱 I'm currently learning the Golang backend framework(fiber,echo..)
+- 👨🏻‍💻 I'm passionate Full Stack Development.
+- 🌱 I'm currently learning more about Web technologies.
 - 💼 I'm open to job opportunities.
 
 ## 🛠️ Skills
@@ -23,7 +23,6 @@ I'm a Backend Developer.
 [![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3&link=https://github.com/Hackintosh-02)](https://github.com/Hackintosh-02)
 [![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat&logo=visual-studio-code&link=https://github.com/Hackintosh-02)](https://github.com/Hackintosh-02)
 [![Terminal](https://img.shields.io/badge/-Terminal-black?style=flat&logo=windows-terminal&link=https://github.com/Hackintosh-02)](https://github.com/Hackintosh-02)
-[![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go&link=https://github.com/Hackintosh-02)](https://github.com/Hackintosh-02)
 
 
 
