@@ -38,5 +38,5 @@ I'm a Full Stack Developer.
 
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/sahib-singh-b715b2207/)](https://www.linkedin.com/in/sahib-singh-b715b2207/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&link=https://twitter.com/Hackintosh-02)](https://twitter.com/Hackintosh-02)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/ashutosh-sharma-4077b522a/)](https://www.linkedin.com/in/ashutosh-sharma-4077b522a/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&link=https://twitter.com/mr_hackintosh02)](https://twitter.com/mr_hackintosh02)
